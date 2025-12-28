@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-ksero-payer-rules
 pydantic
+ksero-payer-rules==0.1.1
